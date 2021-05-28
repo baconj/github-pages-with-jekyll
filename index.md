@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My Tech Journey Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Thanks for joining me as I endeavor to transition in to the exciting career field of Information Technology.
